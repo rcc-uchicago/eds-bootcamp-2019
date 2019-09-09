@@ -15,7 +15,7 @@ Searle 240B
 * Day 4. Version control (Git)
 
 We will use Slack to communicate and share material. Signup by clicking the following link: 
-[Slack Channel for eds-bootcamp-2019](https://github.com/rcc-uchicago/env-bootcamp-2019.git)
+[Slack Channel for eds-bootcamp-2019](https://join.slack.com/t/eds-bootcamp/shared_invite/enQtNzQ3MTUyNzk5NTM3LTJhOTRkYzVkYjA3MGE5NDhkYzNlZGQxYjk5NjkyNGVjOTBmMjc2MTk1NjIzYTQ1YjE5ODlkZDEyYmMwYTQ5NjA)
 ## Day 1: Linux & the bash shell (2.5 hours)
 * [Connecting to Midway2](Day1/Connecting_2_midway2.pdf)
 * Command line interface
