@@ -26,7 +26,9 @@ We will use Slack to communicate and share material. Signup by clicking the foll
 
 + Basics of high-performance computing.
 
-+ Using Slurm.
++ Software modulues 
+
++ Using the resource scheduler Slurm.
 
 ## Day 3: Best Practices in using python on Midway and other Tips & Tricks (2+ hours)
 
