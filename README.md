@@ -26,7 +26,7 @@ We will use Slack to communicate and share material. Signup by clicking the foll
 
 + Basics of high-performance computing.
 
-+ Software modulues 
++ Software modules 
 
 + Using the resource scheduler Slurm.
 
