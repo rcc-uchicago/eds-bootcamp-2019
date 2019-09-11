@@ -28,9 +28,10 @@ We will use Slack to communicate and share material. Signup by clicking the foll
 
 + Using Slurm.
 
-## Day 3: Parallel computing -- multiprocessing in python (2.5 hours)
+## Day 3: Best Practices in using python on Midway and other Tips & Tricks (2+ hours)
 
-* Python modules
+* Customizing your shell environment
+* Using Python and R 
 * Managing environments
 * Using notebooks
 * Accessing DL frameworks
